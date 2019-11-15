@@ -1,3 +1,4 @@
-#Sinatra Tutorial
-***
+# Sinatra Tutorial
+build BBS  
 `ruby main.rb`
+***
